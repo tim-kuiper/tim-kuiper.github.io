@@ -1,6 +1,6 @@
-title: test
-description: "" 
-baseurl: ""
+title: Tim Kuiper
+description: desc
+baseurl: "baseurl"
 url: https://piazzai.github.io/cvless
 
 theme: cvless
@@ -11,8 +11,8 @@ tagshort: Jekyll theme
 
 # author settings
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Tim Kuiper
+  email: test@test.com
 photo: assets/files/photo.jpg
 address: Foobar Hall 1.23
 phone: +1 234 567 890
