@@ -7,12 +7,12 @@
   --type-height: 1.4;
   --type-numeric: oldstyle-nums proportional-nums;
   --color-particles-text: var(--oc-gray-1);
-  --color-particles-background: var(--oc-black);
+  --color-particles-background: "#000000";
 }
 
 html,
 html[data-theme="light"] {
-  --color-background: var(--oc-black);
+  --color-background: "#000000";
   --color-text: var(--oc-gray-8);
   --color-heading: var(--oc-gray-8);
   --color-link: var(--oc-blue-8);
@@ -23,7 +23,7 @@ html[data-theme="light"] {
 }
 
 html[data-theme="dark"] {
-  --color-background: var(--oc-black);
+  --color-background: "#000000";
   --color-text: var(--oc-gray-3);
   --color-heading: var(--oc-gray-3);
   --color-link: var(--oc-blue-3);
