@@ -1,4 +1,4 @@
-title: Home
+title: Tim Kuiper
 description: desc
 baseurl: "baseurl"
 url: https://piazzai.github.io/cvless
@@ -6,7 +6,7 @@ url: https://piazzai.github.io/cvless
 theme: cvless
 
 # site settings
-taglong: Jekyll theme for a beautiful online CV
+taglong: DevOps Engineer
 tagshort: Jekyll theme
 
 # author settings
