@@ -1,7 +1,7 @@
 title: Tim Kuiper
 description: desc
 baseurl: "baseurl"
-url: https://piazzai.github.io/cvless
+url: https://tim-kuiper.github.io
 
 theme: cvless
 
@@ -12,10 +12,10 @@ tagshort: Jekyll theme
 # author settings
 author:
   name: Tim Kuiper
-  email: test@test.com
+  email: tim.kuiper@protonmail.com
 photo: assets/files/photo.jpg
-address: Foobar Hall 1.23
-phone: +1 234 567 890
+address: Wijhe
+# phone: +1 234 567 890
 
 # social media links
 social:
