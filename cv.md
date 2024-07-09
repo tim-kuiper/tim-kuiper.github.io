@@ -5,11 +5,6 @@ title: CV
 
 {% include contact.html %}
 
-
-
-
-
-
 # Profile
 
 * Driven engineer with nearly 7 years of experience working in medium-sized private cloud environments, with a focus on Linux and Kubernetes
@@ -31,6 +26,16 @@ title: CV
 
 ## IT Specialist @ MST via Brunel
 ### 06/2018 - 08/2019
+
+
+
+
+
+
+
+
+
+
 
 # Internships
 
