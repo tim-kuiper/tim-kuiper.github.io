@@ -26,12 +26,19 @@ title: CV
 
 ## IT Specialist @ MST via Brunel
 ### 06/2018 - 08/2019  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
   
-  
-  
-  
-
-
 # Internships  
   
   
