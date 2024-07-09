@@ -3,31 +3,35 @@ layout: cv
 title: CV
 ---
 
-# Curriculum Vitæ
-
 {% include contact.html %}
 
-## Profile
+# Profile
 
 * Driven engineer with nearly 7 years of experience working in medium-sized private cloud environments, with a focus on Linux and Kubernetes
 * Skilled in standardizing automation practices within complex infrastructures
 * Wants to keep learning by keeping up to date with the newest tech in cloud-native land
-* Loves everything cloud-native
-* Looking for opportunities to help and improve businesses with their IT infrastructure as a DevOps/Platform/SR Engineer with a focus on Kubernetes and Linux
+* Looking for opportunities to help and improve businesses with their IT infrastructure as a DevOps/Platform/SR/Software enineer with a focus on Kubernetes and Linux
+* Also interested in (junior) software development roles (Python/Go/C/C++)
 
-## Job experience
-### Job1
+# Job experience
+## Job1
+### Date
 
-### Job2
 
-### Job3
+## Job2
+### Date
 
-## Education
+## Job3
+### Date
 
-## Certificates
+# Education
 
-## Internships
+# Certificates
 
-## Languages
+# Internships
 
-## Skills
+# Languages
+
+# Skills
+
+# Hobbies
