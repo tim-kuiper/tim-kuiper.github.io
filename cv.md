@@ -6,6 +6,10 @@ title: CV
 {% include contact.html %}
 
 
+
+
+
+
 # Profile
 
 * Driven engineer with nearly 7 years of experience working in medium-sized private cloud environments, with a focus on Linux and Kubernetes
