@@ -25,21 +25,21 @@ title: CV
 ### 09/2019 - 03/2020
 
 ## IT Specialist @ MST via Brunel
-### 06/2018 - 08/2019
+### 06/2018 - 08/2019  
+  
+  
+  
+  
 
 
+# Internships  
+  
+  
+  
 
 
+# Education  
 
-
-
-
-
-
-
-# Internships
-
-# Education
 
 ## Pre-Master Computer Science @ University of Twente, Enschede
 ### 09/2016 - 05/2018
