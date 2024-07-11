@@ -5,6 +5,8 @@ title: CV
 
 {% include contact.html %}
 
+<br>
+
 # Profile
 * Driven engineer with nearly 7 years of experience working in medium-sized private cloud environments, with a focus on Linux and Kubernetes
 * Skilled in standardizing automation practices within complex infrastructures
@@ -56,28 +58,36 @@ title: CV
   * SAS (Analytics Software, department specific)
 
 ## IT Specialist @ MST via Brunel
-### 06/2018 - 08/2019  
+### 06/2017 - 08/2019  
 * Responsible for registering, maintaining and resolving of incidents within the hospital
   * Worked on the servicedesk where users could call with their IT related problems
   * Worked on resolving incidents revolving all IT assets such as mobile phones, COWs (Computer on Wheels) and thin clients
 
 <br>
 
-# Education  
+# Education and internships
 ## Pre-Master Computer Science @ University of Twente, Enschede
-### 09/2016 - 05/2018
+### 09/2016 - 05/2017
+* Followed courses about different subjects in the computer science field such as:
+  * Mathematics
+  * Logic theory
+  * Software design
 
 ## Bachelor IT Service Management @ Saxion University of Applied Sciences, Enschede
 ### 09/2011 - 05/2015
+* Completed my bachelor in IT Service Management where I learned about:
+  * Computer design and architecture
+  * Networking
+  * Web development and databases
+  * Organizational processes and management
+  * Project management
+* Followed 2 internhips as part of the study:
+  * 4th year graduation project @ Powerpacker Oldenzaal, where I created 
 
 ## HAVO @ Bonhoeffer College, Enschede
 ### 09/2006 - 05/2011
-
-<br>
-
-# Internships (as part of Bachelor IT Service Management)
-## 4th year graduation project
-## 3rd year internship
+* Completed HAVO with NG (Natuur&Gezondheid) focus
+* Followed additional courses such as informatica and physics
 
 <br>
 
@@ -92,4 +102,4 @@ title: CV
 # Hobbies
 * Programming
 * Gaming
-* Fitnessing
+* Fitness
