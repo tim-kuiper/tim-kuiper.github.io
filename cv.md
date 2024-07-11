@@ -6,7 +6,6 @@ title: CV
 {% include contact.html %}
 
 # Profile
-
 * Driven engineer with nearly 7 years of experience working in medium-sized private cloud environments, with a focus on Linux and Kubernetes
 * Skilled in standardizing automation practices within complex infrastructures
 * Wants to keep learning by keeping up to date with the newest tech in cloud-native land
@@ -14,27 +13,41 @@ title: CV
 * Also interested in (junior) software development roles (Python/Go/C/C++)
 
 # Relevant job experience
-
 ## DevOps Engineer @ Dutch Tax Office via Routz/Integreater
 ### 02/2023 - Current
+* Responsible for maintaining several applications and infrastructure as part of the Linux Application Hosting team, focused on Kubernetes (Rancher) and Linux (Ubuntu)
+* Responsible for setting up automated patching of systems using Ansible and Jenkins
+* Responsible for setting up a PKI Infrastructure based on Hashicorp Vault/Cert manager deployed on Kubernetes to be consumed by applications on Kubernetes and Linux hosts
+* Helped the team transition towards a more DevOps oriented environment by streamlining development processes
+* Built and maintained Jenkins pipelines for a plethora of use cases, mainly deployment and code quality checking
+* Helped maintain custom policies on Kubernetes clusters using Kyverno
+* Helped in gaining more insights on applications running on Kubernetes utilizing Grafana/Loki/Prometheus
 
 ## System Engineer Infrastructure @ Dutch Tax Office
 ### 04/2020 - 01/2023
+* Responsible for setting up automated deployments for desktop, storage, compute and networking resources
+* Responsible for maintaining and automating JeOS (Just Enough Operating System) and SoE (Standard Operating Environment) builds for Linux (RHEL) and Windows (10) images used by the department
+* Responsible for setting up a user profile management system using VMware DEM
+* Responsible for setting up and maintaining a VMware Horizon platform
+* Responsible for setting up a deployment workflow on Ansible Tower, scraping data from a frontend (using RabbitMQ) and deploying various kinds of resources on demand
 
 ## Trainee System Engineer @ Dutch Tax Office via Brunel
 ### 09/2019 - 03/2020
+* Followed a traineeship program by learning about different subjects, such as:
+  * Linux
+  * Shell scripting
+  * Mainframe (z/OS)
+  * SAS (Analytics Software, department specific)
 
 ## IT Specialist @ MST via Brunel
 ### 06/2018 - 08/2019  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  
-# Internships  
-  
+* Responsible for registering, maintaining and resolving of incidents within the hospital
+  * Worked on the servicedesk where users could call with their IT related problems
+  * Worked on resolving incidents revolving all IT assets such as mobile phones, COWs (Computer on Wheels) and thin clients
+
+# Internships
+## Graduation Project
+
   
   
 
@@ -51,6 +64,9 @@ title: CV
 ## HAVO @ Bonhoeffer College, Enschede
 ### 09/2006 - 05/2011
 
+<br>
+<br>
+
 # Certifications
 - AWS Certified Cloud Practitioner - 2024
 - Hashicorp Terraform Certificied Associate - 2024
@@ -65,6 +81,10 @@ title: CV
 - ITIL Foundation - 2018
 
 # Languages
+- Dutch: mother tongue
+- English: fluently
+- German: basic
+- French: basic
 
 # Skills
 
