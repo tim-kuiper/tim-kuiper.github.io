@@ -32,12 +32,6 @@ title: CV
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
   
 # Internships  
   
