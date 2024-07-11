@@ -1,0 +1,16 @@
+#cv {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: #000000;
+}
+
+.fullscreen {
+  min-height: 100vh;
+
+  h1,
+  h2 {
+    color: var(--color-particles-text);
+  }
+}
