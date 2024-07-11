@@ -12,6 +12,22 @@ title: CV
 * Looking for opportunities to help and improve businesses with their IT infrastructure as a DevOps/Platform/SR/Software enineer with a focus on Kubernetes and Linux
 * Also interested in (junior) software development roles (Python/Go/C/C++)
 
+<br>
+
+# Certifications
+- AWS Certified Cloud Practitioner - 2024
+- Hashicorp Terraform Certificied Associate - 2024
+- Hashicorp Vault Certified Associate - 2023
+- Certified Kubernetes Application Developer (CKAD) - 2023
+- Certificated Kubernetes Administrator (CKA) - 2023
+- VMWare Certified Professional: Desktop Management (VCP-DTM) - 2022
+- Red Hat Certified Engineer (RHEL8) - 2021
+- Red Hat Certified System Administrator (RHEL8) - 2020
+- Microsoft Certified Solutions Associate (Windows Server 2016) - 2019
+- Cisco Certified Network Associate: Routing&Switching - 2019
+
+<br>
+
 # Relevant job experience
 ## DevOps Engineer @ Dutch Tax Office via Routz/Integreater
 ### 02/2023 - Current
@@ -45,16 +61,9 @@ title: CV
   * Worked on the servicedesk where users could call with their IT related problems
   * Worked on resolving incidents revolving all IT assets such as mobile phones, COWs (Computer on Wheels) and thin clients
 
-# Internships
-## Graduation Project
-
-  
-  
-
+<br>
 
 # Education  
-
-
 ## Pre-Master Computer Science @ University of Twente, Enschede
 ### 09/2016 - 05/2018
 
@@ -65,27 +74,22 @@ title: CV
 ### 09/2006 - 05/2011
 
 <br>
+
+# Internships (as part of Bachelor IT Service Management)
+## 4th year graduation project
+## 3rd year internship
+
 <br>
 
-# Certifications
-- AWS Certified Cloud Practitioner - 2024
-- Hashicorp Terraform Certificied Associate - 2024
-- Hashicorp Vault Certified Associate - 2023
-- Certified Kubernetes Application Developer (CKAD) - 2023
-- Certificated Kubernetes Administrator (CKA) - 2023
-- VMWare Certified Professional: Desktop Management (VCP-DTM) - 2022
-- Red Hat Certified Engineer (RHEL8) - 2021
-- Red Hat Certified System Administrator (RHEL8) - 2020
-- Microsoft Certified Solutions Associate (Windows Server 2016) - 2019
-- Cisco Certified Network Associate: Routing&Switching - 2019
-- ITIL Foundation - 2018
-
 # Languages
-- Dutch: mother tongue
-- English: fluently
-- German: basic
-- French: basic
+* Dutch: mother tongue
+* English: fluently
+* German: basic
+* French: basic
 
 # Skills
 
 # Hobbies
+* Programming
+* Gaming
+* Fitnessing
