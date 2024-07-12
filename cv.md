@@ -82,7 +82,8 @@ title: CV
   * Organizational processes and management
   * Project management
 * Followed 2 internhips as part of the study:
-  * 4th year graduation project @ Powerpacker Oldenzaal, where I created 
+  * 4th year graduation project @ Powerpacker Oldenzaal, where I wrote my thesis about information security and what the company should do to obtain a ISO27001 certification
+  * 3rd year internship @ NykampNyboer Oldenzaal, where I was helping out on the service desk
 
 ## HAVO @ Bonhoeffer College, Enschede
 ### 09/2006 - 05/2011
@@ -97,7 +98,7 @@ title: CV
 * German: basic
 * French: basic
 
-# Skills
+<br>
 
 # Hobbies
 * Programming
