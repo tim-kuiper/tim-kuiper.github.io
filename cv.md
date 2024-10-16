@@ -11,12 +11,12 @@ title: CV
 * Driven engineer with nearly 7 years of experience working in medium-sized private cloud environments, with a focus on Linux and Kubernetes
 * Skilled in standardizing automation practices within complex infrastructures
 * Wants to keep learning by keeping up to date with the newest tech in cloud-native land
-* Looking for opportunities to help and improve businesses with their IT infrastructure as a DevOps/Platform/SR/Software enineer with a focus on Kubernetes and Linux
-* Also interested in (junior) software development roles (Python/Go/C/C++)
+* Looking for opportunities to help and improve businesses with their IT infrastructure as a DevOps/Platform/SR/Software engineer with a focus on Kubernetes and Linux
 
 <br>
 
 # Certifications
+- Red Hat Certified Specialist in Containers - 2024
 - AWS Certified Cloud Practitioner - 2024
 - Hashicorp Terraform Certificied Associate - 2024
 - Hashicorp Vault Certified Associate - 2023
