@@ -12,17 +12,14 @@ tagshort: Jekyll theme
 # author settings
 author:
   name: Tim Kuiper
-  email: tim.kuiper@protonmail.com
+  email: tim-kuiper.prism161@8shield.net
 photo: assets/files/k8s.png
 address: Wijhe
-# phone: +1 234 567 890
 
 # social media links
 social:
-  #facebook: username
   github: tim-kuiper
-  #instagram: username
-  linkedin: test12345
+  linkedin: https://www.linkedin.com/in/tim-kuiper-b690b9193/
   #stackoverflow: 0000000/username
   #x: username
 
