@@ -8,14 +8,18 @@ title: CV
 <br>
 
 # Profile
-* Driven engineer with nearly 7 years of experience working in medium-sized private cloud environments, with a focus on Linux and Kubernetes
-* Skilled in standardizing automation practices within complex infrastructures
-* Wants to keep learning by keeping up to date with the newest tech in cloud-native land
-* Looking for opportunities to help and improve businesses with their IT infrastructure as a DevOps/Platform/SR/Software engineer with a focus on Kubernetes and Linux
+* Driven engineer with nearly 7 years of experience working in medium-sized private cloud environments, with a focus on Linux and Containerization
+* Loves working with everything containers
+* Skilled in standardizing automation practices within complex infrastructures and environments
+* Tries to keep up on all the new stuff by reading up on the k8s blog, learnk8s.io, kubernetes architect, kubesploit etc
+* Looking for opportunities to help and improve businesses with their IT infrastructure as a DevOps/Platform/SR/Software engineer with a focus on Kubernetes and Linux.
+* In my spare time I like to try out new stuff, mostly on my homelab. I will try to do more (public) projects in the future so please check out my Github repository. I already created a simple cryptocurrency trading bot in Python, the project is open source so please use it if you're interested! 
 
 <br>
 
 # Certifications
+- Kubernetes Cloud Native Security Associate - 2025
+- Kubernetes Cloud Native Associate - 2025
 - Red Hat Certified Specialist in Containers - 2024
 - AWS Certified Cloud Practitioner - 2024
 - Hashicorp Terraform Certificied Associate - 2024
@@ -31,8 +35,15 @@ title: CV
 <br>
 
 # Relevant job experience
+## Senior Engineer @ Dutch Tax Office via Watchmen
+### 02/2023 - 12/2024
+* Same position / team but with a new employer
+* Worked on setting up a logical layout for application deployment using GitOps tools such as Fleet, Helm and Kustomize
+* Worked on building custom scripts for backing up Hashicorp Vault instances to S3
+* Worked on building custom scripts for managing secrets using Hashicorp Vault and External Secrets Operator
+
 ## DevOps Engineer @ Dutch Tax Office via Routz/Integreater
-### 02/2023 - Current
+### 02/2023 - 12/2024
 * Responsible for maintaining several applications and infrastructure as part of the Linux Application Hosting team, focused on Kubernetes (Rancher) and Linux (Ubuntu)
 * Responsible for setting up automated patching of systems using Ansible and Jenkins
 * Responsible for setting up a PKI Infrastructure based on Hashicorp Vault/Cert manager deployed on Kubernetes to be consumed by applications on Kubernetes and Linux hosts
