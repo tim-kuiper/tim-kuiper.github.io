@@ -18,6 +18,8 @@ title: CV
 <br>
 
 # Certifications
+- Kubestronaut - 2025
+- Certified Kubernetes Security Specialist (CKS) - 2025
 - Kubernetes Cloud Native Security Associate - 2025
 - Kubernetes Cloud Native Associate - 2025
 - Red Hat Certified Specialist in Containers - 2024
@@ -36,20 +38,20 @@ title: CV
 
 # Relevant job experience
 ## Senior Engineer @ Dutch Tax Office via Watchmen
-### 02/2023 - 12/2024
+### 02/2023 - current
 * Same position / team but with a new employer
 * Worked on setting up a logical layout for application deployment using GitOps tools such as Fleet, Helm and Kustomize
-* Worked on building custom scripts for backing up Hashicorp Vault instances to S3
+* Worked on building a custom container(s) for internal use, mainly for scheduling CronJobs to backup different applications such as Postgres and Hashicorp Vault to S3
 * Worked on building custom scripts for managing secrets using Hashicorp Vault and External Secrets Operator
 
 ## DevOps Engineer @ Dutch Tax Office via Routz/Integreater
 ### 02/2023 - 12/2024
 * Responsible for maintaining several applications and infrastructure as part of the Linux Application Hosting team, focused on Kubernetes (Rancher) and Linux (Ubuntu)
-* Responsible for setting up automated patching of systems using Ansible and Jenkins
-* Responsible for setting up a PKI Infrastructure based on Hashicorp Vault/Cert manager deployed on Kubernetes to be consumed by applications on Kubernetes and Linux hosts
+* Built automated patching of systems using Ansible and Jenkins
+* Built a PKI Infrastructure based on Hashicorp Vault/Cert manager deployed on Kubernetes to be consumed by applications on Kubernetes and infrastructure
 * Helped the team transition towards a more DevOps oriented environment by streamlining development processes
 * Built and maintained Jenkins pipelines for a plethora of use cases, mainly deployment and code quality checking
-* Helped maintain custom policies on Kubernetes clusters using Kyverno
+* Built custom policies on Kubernetes using Kyverno, 
 * Helped in gaining more insights on applications running on Kubernetes utilizing Grafana/Loki/Prometheus
 
 ## System Engineer Infrastructure @ Dutch Tax Office
@@ -115,3 +117,6 @@ title: CV
 * Programming
 * Gaming
 * Fitness
+* Padel
+* Golf
+* Hiking
