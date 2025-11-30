@@ -9,10 +9,8 @@ title: CV
 
 # Profile
 * Driven engineer with nearly 7 years of experience working in medium-sized private cloud environments, with a focus on Linux and Containerization
-* Loves working with everything containers
 * Skilled in standardizing automation practices within complex infrastructures and environments
 * Tries to keep up on all the new stuff by reading up on the k8s blog, learnk8s.io, kubernetes architect, kubesploit etc
-* Looking for opportunities to help and improve businesses with their IT infrastructure as a DevOps/Platform/SR/Software engineer with a focus on Kubernetes and Linux.
 * In my spare time I like to try out new stuff, mostly on my homelab. I will try to do more (public) projects in the future so please check out my Github repository. I already created a simple cryptocurrency trading bot in Python, the project is open source so please use it if you're interested! 
 
 <br>
@@ -41,8 +39,9 @@ title: CV
 ### 02/2023 - current
 * Same position / team but with a new employer
 * Worked on setting up a logical layout for application deployment using GitOps tools such as Fleet, Helm and Kustomize
-* Worked on building a custom container(s) for internal use, mainly for scheduling CronJobs to backup different applications such as Postgres and Hashicorp Vault to S3
+* Worked on building a custom container(s) for internal use, mainly for scheduling CronJobs to backup different applications such as Postgres (CNPG) and Hashicorp Vault to S3
 * Worked on building custom scripts for managing secrets using Hashicorp Vault and External Secrets Operator
+* Built custom scripts for managing secrets using Hashicorp Vault and External Secrets Operator 
 
 ## DevOps Engineer @ Dutch Tax Office via Routz/Integreater
 ### 02/2023 - 12/2024
